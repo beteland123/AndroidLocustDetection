@@ -84,7 +84,7 @@ Install this project with:git and npm install
 - Linkedin-[Betel Andarge](https://www.linkedin.com/in/betel-andarge-1b9446223)
 ## :telescope: Future Features <a name="future-features"></a>
 
-
+- Add another class to make more classifyer for insects too instead of being binary one as it now
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
