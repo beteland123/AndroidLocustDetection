@@ -56,9 +56,7 @@ N/a
 
 ### Prerequisites
 > In order to run this project you need: To have a code edtitor like visual strudio, download git control system
-```pre
 
- ```
 ### Setup
 Clone this repository to your desired folder:
 ```setup
